@@ -1,0 +1,10 @@
+name: meteorites
+title:
+username:
+account: dcooley
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 981052
+bundleId: 2153205
+url: https://dcooley.shinyapps.io/meteorites/
+when: 1560506088.0823
